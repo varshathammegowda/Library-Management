@@ -91,15 +91,13 @@ The frontend requires both the configured admin email and `profiles.role = 'admi
 - Admin tables and writes are protected by `public.is_admin()`.
 - The UI also protects `/admin`; unauthorized users are redirected.
 
-## Deployment
 
-Build with:
 
-```bash
-npm run build
-```
+## 🔗 Live Demo
 
-Deploy the generated `dist` directory to Vercel or Netlify. Configure the same environment variables in the deployment platform. For SPA routing, configure the host to rewrite unknown routes to `/index.html`.
+- 🌐 Frontend: http://localhost:5173/
+- ⚙️ Backend API: Currently runs locally at `http://127.0.0.1:8000`
+- 📚 API Documentation: `http://127.0.0.1:8000/docs`.
 
 ## Acceptance checklist
 
