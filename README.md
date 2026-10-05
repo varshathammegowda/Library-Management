@@ -95,7 +95,7 @@ The frontend requires both the configured admin email and `profiles.role = 'admi
 
 ## 🔗 Live Demo
 
-- 🌐 library-management-liart-three.vercel.app
+- 🌐 https://library-management-liart-three.vercel.app/
 
 
 ## Acceptance checklist
