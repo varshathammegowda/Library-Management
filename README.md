@@ -95,9 +95,8 @@ The frontend requires both the configured admin email and `profiles.role = 'admi
 
 ## 🔗 Live Demo
 
-- 🌐 Frontend: http://localhost:5173/
-- ⚙️ Backend API: Currently runs locally at `http://127.0.0.1:8000`
-- 📚 API Documentation: `http://127.0.0.1:8000/docs`.
+- 🌐 library-management-liart-three.vercel.app
+
 
 ## Acceptance checklist
 
